@@ -1,0 +1,33 @@
+_repo: It-s-like-this-cat_24921
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weiss, Emil
+    gutenberg_agent_id: '39643'
+    url: http://www.gutenberg.org/2009/agents/39643
+covers:
+- cover_type: archival
+  image_path: 24921-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Neville, Emily
+    gutenberg_agent_id: '26814'
+    url: http://www.gutenberg.org/2009/agents/26814
+description: ''
+gutenberg_issued: '2008-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cats -- Juvenile fiction'
+title: It's like this, cat
+url: http://www.gutenberg.org/ebooks/24921
